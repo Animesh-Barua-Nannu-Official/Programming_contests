@@ -1,0 +1,1 @@
+## JS mini project to understand fetch api and json
